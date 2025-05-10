@@ -3,7 +3,7 @@
 # 🚗 Enhancing Road Safety with AI-Driven Traffic Accident Analysis and Prediction
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Apache%202.0-blue)
 
 This project leverages AI to predict the severity of road traffic accidents (Slight Injury, Serious Injury, Fatal Injury) using historical data. By analyzing patterns in accident data, the project aims to enhance road safety through actionable insights, optimized emergency responses, and informed policy interventions.
 
