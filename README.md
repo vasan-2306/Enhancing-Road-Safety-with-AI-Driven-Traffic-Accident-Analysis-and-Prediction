@@ -98,9 +98,9 @@ The script generates the following plots, displayed one by one with a 2-second p
 5. **Neural Network Training History**:
    - Plots training/validation accuracy and loss curves.
    - 
-| ![img1](screenshots/img1.png) |
+| ![img1](screenshots/img1.jpeg) |
 
-| ![img2](screenshots/img2.png) |
+| ![img2](screenshots/img2.jpeg) |
 
 ## 📊 Results
 
