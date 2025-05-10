@@ -164,6 +164,8 @@ This project is licensed under the Apache 2.0 License. See [LICENSE](LICENSE) fo
 - Author: Vasanth 
 - GitHub profile link: https://github.com/vasan-2306/Enhancing-Road-Safety-with-AI-Driven-Traffic-Accident-Analysis-and-Prediction
 - college name: Sri Ramanujar Engineering college
+- gmail: vasanthaswin041@gmail.com
+  
 
 ## ⚠ Limitations
 
