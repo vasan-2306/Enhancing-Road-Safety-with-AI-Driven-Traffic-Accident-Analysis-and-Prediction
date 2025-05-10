@@ -96,10 +96,11 @@ The script generates the following plots, displayed one by one with a 2-second p
 4. **Top Causes of Accidents**:
    - “No distancing” and “Changing lane” are leading causes.
 5. **Neural Network Training History**:
-   - Plots training/validation accuracy and loss curves. 
-(screenshots/img1.png)
+   - Plots training/validation accuracy and loss curves.
+   - 
+| ![Main Interface](creenshots/img1.png) |
 
-(screenshots/img2.png)
+| ![Main Interface](creenshots/img2.png) |
 
 ## 📊 Results
 
