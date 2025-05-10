@@ -96,9 +96,10 @@ The script generates the following plots, displayed one by one with a 2-second p
 4. **Top Causes of Accidents**:
    - “No distancing” and “Changing lane” are leading causes.
 5. **Neural Network Training History**:
-   - Plots training/validation accuracy and loss curves.
+   - Plots training/validation accuracy and loss curves. 
+(screenshots/img1.png)
 
-*Note*: In Pyodide or environments without a display backend, replace `plt.show()` with `plt.savefig()` to save plots as PNGs (see [Limitations](#limitations)).
+(screenshots/img2.png)
 
 ## 📊 Results
 
