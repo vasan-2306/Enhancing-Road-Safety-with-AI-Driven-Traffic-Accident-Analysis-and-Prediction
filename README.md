@@ -2,8 +2,30 @@
 
 # 🚗 Enhancing Road Safety with AI-Driven Traffic Accident Analysis and Prediction
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-Apache%202.0-blue)
+
+<!-- License -->
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue)](https://www.apache.org/licenses/LICENSE-2.0)
+
+<!-- Python -->
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+
+<!-- Libraries Used -->
+![Pandas](https://img.shields.io/badge/Pandas-Used-important)
+![Seaborn](https://img.shields.io/badge/Seaborn-Used-9cf)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Used-9cf)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Used-F7931E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Used-FF6F00)
+
+<!-- Model Accuracy (example value, customize based on your actual output) -->
+![Random Forest Accuracy](https://img.shields.io/badge/Random%20Forest-Accuracy%20%3E%2080%25-green)
+![Neural Network Accuracy](https://img.shields.io/badge/Neural%20Network-Accuracy%20%3E%2080%25-green)
+
+<!-- Dataset -->
+![Dataset Size](https://img.shields.io/badge/Dataset-RTA%20Accident%20Data-orange)
+
+<!-- Status -->
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 
 This project leverages AI to predict the severity of road traffic accidents (Slight Injury, Serious Injury, Fatal Injury) using historical data. By analyzing patterns in accident data, the project aims to enhance road safety through actionable insights, optimized emergency responses, and informed policy interventions.
 
